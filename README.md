@@ -1,4 +1,3 @@
-# Dress-Recommendation
 # Thuli Studios Hackathon
 
 ## Overview
