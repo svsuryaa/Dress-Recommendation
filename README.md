@@ -11,7 +11,6 @@ Generate API Keys for Gemini, QDrant, Cohere and access tokens from HuggingFace.
   ```bash
   python3 controller.py
 ```
-simple streamlit app will be integrated soon....
 
 ## User Inputs
 
